@@ -1,6 +1,5 @@
-// Main class for Arrays
 public class Main{
-	public static void main(String[] args) {
+    public static void main(String[] args) {
         // Method 1
         int[] numbers_one = new int[5];
 

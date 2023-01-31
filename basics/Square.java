@@ -1,3 +1,4 @@
+// Author: CodeNerdHQ
 class Square {
     private int width;
 

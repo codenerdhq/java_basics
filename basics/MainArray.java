@@ -1,3 +1,4 @@
+// Author: CodeNerdHQ
 public class MainArray{
     public static void main(String[] args) {
         // Method 1

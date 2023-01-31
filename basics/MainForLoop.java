@@ -1,3 +1,4 @@
+// Author: CodeNerdHQ
 public class MainForLoop{
 	public static void main(String[] args) {
         // Our Array of integers
@@ -14,7 +15,3 @@ public class MainForLoop{
         }
 	}
 }
-
-
-
-

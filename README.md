@@ -1,2 +1,2 @@
-# java_basics
+# Java Basics
 Java Basics Repo

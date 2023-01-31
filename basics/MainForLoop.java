@@ -1,4 +1,4 @@
-public class Main{
+public class MainForLoop{
 	public static void main(String[] args) {
         // Our Array of integers
         int[] numbers = new int[] {10, 5, 12, 6, 9};

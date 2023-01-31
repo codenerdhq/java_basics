@@ -1,4 +1,4 @@
-public class Main{
+public class MainArray{
     public static void main(String[] args) {
         // Method 1
         int[] numbers_one = new int[5];

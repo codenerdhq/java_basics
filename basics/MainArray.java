@@ -13,5 +13,8 @@ public class MainArray{
 
         // Method 2
         int[] numbers_two = new int[] {10, 5, 12, 6, 9};
+        for (int i : numbers_two) {
+            System.out.println(i);
+        }
 	}
 }
